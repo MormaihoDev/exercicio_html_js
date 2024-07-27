@@ -1,0 +1,52 @@
+* { 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body div {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+div form input, div form button {
+    display: block;
+    margin-top: 8px;
+}
+
+div form button {
+    width: 84.5px;
+    margin-left: 0px;
+}
+
+form input {
+    height: 22px;
+}
+
+div h1 {
+    border-bottom: 3px solid;
+    margin-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div #calculo-form {
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+}
+
+div form button, div form button {
+    display: inline;
+}
+
+div #calculo-form {
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/20100051-icone-de-calculadora-em-estilo-comico-calcule-a-ilustracaoial-dos-desenhos-animados-sobre-fundo-branco-isolado-conceito-de-negocio-de-efeito-de-respingo-de-calculo-vetor.jpg");
+    background-size: 220px;
+    background-repeat: no-repeat;
+    background-position-x: 110px;
+    background-position-y: -30px;
+}
+
